@@ -1,4 +1,4 @@
-[![MasterHead](https://codedamn.com/assets/images/learnpaths/og/frontend.png)](https://rishavchanda.io)
+[![MasterHead](https://assets-global.website-files.com/5f3ae94489e0968a6114dc24/61eeacaf621137d70053efeb_5f7b671917bfde0a908fd30d_dots-and-lines-connection-on-white-abstract-technology-background-picture-id943897558.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fuad Babayev</h1>
 <h3 align="center">A passionate frontend developer from Baku, Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
