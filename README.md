@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack development**
 
-- 👨‍💻 All of my projects are available at <a href="https://professional-portfolio-cv.netlify.app/" target="_blank"> My Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://professional-portfolio-cv.netlify.app/" > My Portfolio </a>
 
 - 📫 How to reach me **fuad.babayev1951@mail.ru**
 
