@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fuad Babayev</h1>
-<h3 align="center" width="700">A passionate frontend developer from Baku, Azerbaijan</h3>
+<h3 align="center" width="70">A passionate frontend developer from Baku, Azerbaijan</h3>
 <p align="justify">Web developer with 1 year of experience in front-end development. Proficient in HTML5, CSS3, SASS, Bootstrap, Tailwind, JavaScript,  jQuery, TypeScript, React  JS and server side programming. An enthusiastic learner who has a good work ethic, is quick to pick things up, and keeps up with the newest developments in web development. Dedicated to providing dependable, high-quality solutions, possessing a strong grasp of database design and execution. I'm trying to use my expertise and abilities to help a vibrant, expanding company succeed.</p>
 <img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
