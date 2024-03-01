@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuad Babayev</h1>
 <h3 align="center">A passionate frontend developer from Baku, Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadbabayev&label=Profile%20views&color=0e75b6&style=flat" alt="fuadbabayev" /> </p>
+<p align="left"> [<img src="https://komarev.com/ghpvc/?username=fuadbabayev&label=Profile%20views&color=0e75b6&style=flat" alt="fuadbabayev" />](https://github.com/FuadBabayev/FuadBabayev) </p>
 
 - 🌱 I’m currently learning **MERN stack development**
 
