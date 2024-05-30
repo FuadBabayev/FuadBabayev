@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolio-fuadbabayev.netlify.app/" target="blank" > My Portfolio </a>
 
-- 📫 How to reach me **babayevv.fuad@mail.ru**
+- 📫 How to reach me **babayevffuad@gmail.com**
 
 - ⚡ Fun fact **I love learning to code**
 
